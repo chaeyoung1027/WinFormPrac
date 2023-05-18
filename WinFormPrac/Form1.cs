@@ -21,5 +21,11 @@ namespace WinFormPrac
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //클릭하면 나오는 메시지
+            MessageBox.Show("반갑습니다아아~~~~~");
+        }
     }
 }
